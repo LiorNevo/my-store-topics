@@ -1,5 +1,10 @@
 {
     "background": "background.webp",
+    "avatar": "avatar.webp",
+    "link": {
+        "label": "@sarit.nevo",
+        "value": "https://www.instagram.com/saritnevo/"
+    },
     "topics": [{
         "title": "Shop my Zara",
         "path": "zara",

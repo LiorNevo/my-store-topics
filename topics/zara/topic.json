@@ -1,0 +1,43 @@
+{
+    "title": "Zara",
+    "background": "background.webp",
+    "pictures": [{
+        "title": "first",
+        "path": "first.jpeg",
+        "links": [{
+            "title": "Zara coat",
+            "link": "https://www.zara.com",
+            "top": "25%",
+            "left": "40%"
+        },{
+            "link": "https://www.zara.com",
+            "top": "55%",
+            "left": "45%"
+        }]
+    },{
+        "title": "second",
+        "path": "second.jpeg",
+        "links": [{
+            "title": "something",
+            "link": "https://www.zara.com",
+            "top": "25%",
+            "left": "40%"
+        },{
+            "title": "nice",
+            "link": "https://www.zara.com",
+            "top": "55%",
+            "left": "45%"
+        },{
+            "title": "shoes",
+            "link": "https://www.zara.com",
+            "top": "80%",
+            "left": "53%"
+        }]
+    },{
+        "title": "third",
+        "path": "third.jpeg"
+    },{
+        "title": "fourth",
+        "path": "fourth.jpeg"
+    }]
+}

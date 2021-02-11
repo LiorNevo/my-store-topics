@@ -1,0 +1,15 @@
+{
+    "background": "background.webp",
+    "topics": [{
+        "title": "Shop my Zara",
+        "path": "zara",
+        "backgroundColor": "#fcf6e6"
+    }, {
+        "title": "IKEA",
+        "path": "ikea"
+    }, {
+        "title": "Lian",
+        "path": "lian",
+        "backgroundColor": "pink"
+    }]
+}

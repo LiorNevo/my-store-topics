@@ -6,15 +6,8 @@
         "value": "https://www.instagram.com/saritnevo/"
     },
     "topics": [{
-        "title": "Shop my Zara",
+        "title": "From Zara",
         "path": "zara",
         "backgroundColor": "#fcf6e6"
-    }, {
-        "title": "IKEA",
-        "path": "ikea"
-    }, {
-        "title": "Lian",
-        "path": "lian",
-        "backgroundColor": "pink"
     }]
 }

@@ -1,43 +1,45 @@
 {
-    "title": "Zara",
-    "background": "background.webp",
-    "pictures": [{
-        "title": "first",
-        "path": "first.jpeg",
-        "links": [{
-            "title": "Zara coat",
-            "link": "https://www.zara.com",
-            "top": "25%",
-            "left": "40%"
+    "_title": "Zara",
+    "_background": "background.webp",
+    "_pictures": [{
+        "_title": "first",
+        "_path": "first.jpeg",
+        "_links": [{
+            "_title": "Zara coat",
+            "_description": "some description...",
+            "_link": "https://www.zara.com",
+            "_top": "25%",
+            "_left": "40%"
         },{
-            "link": "https://www.zara.com",
-            "top": "55%",
-            "left": "45%"
+            "_link": "https://www.zara.com",
+            "_description": "zara pants",
+            "_top": "55%",
+            "_left": "45%"
         }]
     },{
-        "title": "second",
-        "path": "second.jpeg",
-        "links": [{
-            "title": "something",
-            "link": "https://www.zara.com",
-            "top": "25%",
-            "left": "40%"
+        "_title": "second",
+        "_path": "second.jpeg",
+        "_links": [{
+            "_title": "something",
+            "_link": "https://www.zara.com",
+            "_top": "25%",
+            "_left": "40%"
         },{
-            "title": "nice",
-            "link": "https://www.zara.com",
-            "top": "55%",
-            "left": "45%"
+            "_title": "nice",
+            "_link": "https://www.zara.com",
+            "_top": "55%",
+            "_left": "45%"
         },{
-            "title": "shoes",
-            "link": "https://www.zara.com",
-            "top": "80%",
-            "left": "53%"
+            "_title": "shoes",
+            "_link": "https://www.zara.com",
+            "_top": "80%",
+            "_left": "53%"
         }]
     },{
-        "title": "third",
-        "path": "third.jpeg"
+        "_title": "third",
+        "_path": "third.jpeg"
     },{
-        "title": "fourth",
-        "path": "fourth.jpeg"
+        "_title": "fourth",
+        "_path": "fourth.jpeg"
     }]
 }

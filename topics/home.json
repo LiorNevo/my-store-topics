@@ -1,13 +1,1 @@
-{
-    "background": "background.webp",
-    "avatar": "avatar.webp",
-    "link": {
-        "label": "@saritnevo",
-        "value": "https://www.instagram.com/saritnevo/"
-    },
-    "topics": [{
-        "title": "From Zara",
-        "path": "zara",
-        "backgroundColor": "#fcf6e6"
-    }]
-}
+{"_background":"background.webp","_avatar":"avatar.webp","_link":{"_label":"@saritnevo","_value":"https://www.instagram.com/saritnevo/"},"_topics":[{"_title":"Zara","_path":"zara","_backgroundColor":"#fcf6e6"},{"_backgroundColor":"#92d5dd","_title":"new test","_path":"new_test"}]}
